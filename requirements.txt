@@ -3,3 +3,4 @@ transformers
 langchain
 langcorn
 uvicorn
+torch
